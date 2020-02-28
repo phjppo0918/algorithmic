@@ -21,13 +21,28 @@
     <ClCompile Include="rock_festival_6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="helloWorld_dudle54.cpp">
+    <ClCompile Include="helloWorld_dudle49.cpp">
       <Filter>소스 파일\what is cpp</Filter>
     </ClCompile>
-    <ClCompile Include="helloworld2_dudle54.cpp">
+    <ClCompile Include="helloworld2_dudle49.cpp">
       <Filter>소스 파일\what is cpp</Filter>
     </ClCompile>
-    <ClCompile Include="manageString_dudle54.cpp">
+    <ClCompile Include="manageString_dudle49.cpp">
+      <Filter>소스 파일\what is cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_dudle50.cpp">
+      <Filter>소스 파일\what is cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="rangeBaseFor_dudle50.cpp">
+      <Filter>소스 파일\what is cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="reference_dudle50.cpp">
+      <Filter>소스 파일\what is cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="functionOverloading_dudle51.cpp">
+      <Filter>소스 파일\what is cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="functionOverloading2_dudle51.cpp">
       <Filter>소스 파일\what is cpp</Filter>
     </ClCompile>
   </ItemGroup>

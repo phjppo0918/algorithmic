@@ -13,5 +13,5 @@ int main() {
 
 	string message = "æ»≥Á«œººø‰ " + name + "¥‘";
 	cout << message << endl;
-	return 0;
+	return 0; 
 }
