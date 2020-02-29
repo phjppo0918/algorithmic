@@ -16,6 +16,12 @@
     <Filter Include="소스 파일\what is cpp">
       <UniqueIdentifier>{84f5e70c-f39e-48c1-8162-db124acc0b7b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\what is cpp\combinationQuiz">
+      <UniqueIdentifier>{45fa9e61-7133-425f-a4d6-fd2dec20e918}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\whiat is pointer">
+      <UniqueIdentifier>{b1d52a0b-5dae-4421-8603-f107a27f5a41}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="rock_festival_6.c">
@@ -44,6 +50,12 @@
     </ClCompile>
     <ClCompile Include="functionOverloading2_dudle51.cpp">
       <Filter>소스 파일\what is cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz1.cpp">
+      <Filter>소스 파일\what is cpp\combinationQuiz</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz2.cpp">
+      <Filter>소스 파일\what is cpp\combinationQuiz</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
