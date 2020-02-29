@@ -57,5 +57,11 @@
     <ClCompile Include="quiz2.cpp">
       <Filter>소스 파일\what is cpp\combinationQuiz</Filter>
     </ClCompile>
+    <ClCompile Include="porinter_dudle24.cpp">
+      <Filter>소스 파일\whiat is pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer2_dudle24.cpp">
+      <Filter>소스 파일\whiat is pointer</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
