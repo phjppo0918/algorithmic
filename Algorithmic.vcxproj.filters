@@ -63,5 +63,17 @@
     <ClCompile Include="pointer2_dudle24.cpp">
       <Filter>소스 파일\whiat is pointer</Filter>
     </ClCompile>
+    <ClCompile Include="relationPointerToArray_dudle25.cpp">
+      <Filter>소스 파일\whiat is pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="relationPointerToArray2_dudle25.cpp">
+      <Filter>소스 파일\whiat is pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayPointer_dudle26.cpp">
+      <Filter>소스 파일\whiat is pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayPointer2_dudle_26.cpp">
+      <Filter>소스 파일\whiat is pointer</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
