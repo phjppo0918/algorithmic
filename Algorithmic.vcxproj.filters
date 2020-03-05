@@ -87,5 +87,14 @@
     <ClCompile Include="pointerArray2_dudle28.cpp">
       <Filter>소스 파일\whiat is pointer</Filter>
     </ClCompile>
+    <ClCompile Include="pointerJonghap_dudle29.cpp">
+      <Filter>소스 파일\whiat is pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointerJonghap2_dudle29.cpp">
+      <Filter>소스 파일\whiat is pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointerJonghap3_dudle30.cpp">
+      <Filter>소스 파일\whiat is pointer</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
