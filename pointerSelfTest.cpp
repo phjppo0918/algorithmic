@@ -21,17 +21,17 @@ int main() {
 	std::cout << *(arr_ptr[0]+3) << std::endl;
 
 	std::cout << "\n" << std::endl;
-
-	std::cout << *(*(arr_ptr+0) + 0) << std::endl;
-	std::cout << *(*(arr_ptr+0) + 1) << std::endl;
-	std::cout << *(*(arr_ptr+0) + 2) << std::endl;
-	std::cout << *(*(arr_ptr+0) + 3) << std::endl;
-
-	std::cout << "\n" << std::endl;
-
+	
 	std::cout << *(*(arr_ptr + 0)) << std::endl;
 	std::cout << *(*(arr_ptr + 1)) << std::endl;
 	std::cout << *(*(arr_ptr + 2)) << std::endl;
+
+	std::cout << "\n" << std::endl;
+
+	std::cout << *(*(arr_ptr + 0) + 0) << std::endl;
+	std::cout << *(*(arr_ptr + 0) + 1) << std::endl;
+	std::cout << *(*(arr_ptr + 0) + 2) << std::endl;
+	std::cout << *(*(arr_ptr + 0) + 3) << std::endl;
 
 	std::cout << "\n" << std::endl;
 

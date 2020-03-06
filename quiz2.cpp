@@ -35,5 +35,24 @@ int main() {
 	}
 	printf("\n");
 
+	for (int(*ln)[4] = arr; ln < arr + 3; ln++) {
+		for (int* c = *ln; c < *ln + 4; c++) {
+			// 만약 여기서 *ln이 아닌 ln이면 어떻게 될까?
+			printf("%d ", *c);
+		}
+		printf("\n");
+	}
+	printf("\n");
+
+	//https://boycoding.tistory.com/207
+
+	for (int(&col)[4] : arr) {
+		for (int& row : col) {
+			printf("%d ", row);
+		}
+		printf("\n");
+	}
+
+
 	return 0;
 }
