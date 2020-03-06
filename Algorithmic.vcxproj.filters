@@ -96,5 +96,8 @@
     <ClCompile Include="pointerJonghap3_dudle30.cpp">
       <Filter>소스 파일\whiat is pointer</Filter>
     </ClCompile>
+    <ClCompile Include="pointerSelfTest.cpp">
+      <Filter>소스 파일\whiat is pointer</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
