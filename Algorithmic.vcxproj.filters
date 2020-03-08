@@ -111,5 +111,8 @@
     <ClCompile Include="class1_dudle54.cpp">
       <Filter>소스 파일\what is cpp</Filter>
     </ClCompile>
+    <ClCompile Include="thisPointer_dudle55.cpp">
+      <Filter>소스 파일\what is cpp</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
